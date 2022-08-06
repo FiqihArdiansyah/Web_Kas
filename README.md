@@ -7,30 +7,30 @@ Cara memasangnya:
 1. Download file ini
 2. Ekstrak pada htdocs/
 3. Buka phpmyadmin
-4. Buat database dengan nama: uang_kas
+4. Buat database dengan nama: kas
 5. Import file uang_kas.sql pada folder yang di ekstrak tadi
-6. Buka localhost/uang_kas
+6. Buka localhost/kas
 7. Selesai
 
 Akun:
 
 Administrator:
 
-❥ Username: andri123
+❥ Username: Fiqih123
 
 ❥ Password: 123456
 
 
 Bendahara:
 
-❥ Username: andre123
+❥ Username: Mila123
 
 ❥ Password: 123456
 
 
-Guru:
+Sekretaris:
 
-❥ Username: annisa321
+❥ Username: Fikri123
 
 ❥ Password: 123456
 
@@ -43,3 +43,6 @@ Fitur:
 - Riwayat Pengeluaran
 - Ganti Password
 - Dan Lainnya
+
+
+Info Lebih Lanjut Wa.me//6285963090921
